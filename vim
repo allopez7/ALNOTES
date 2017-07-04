@@ -6,4 +6,4 @@ s deletes what is under the cursor and puts it in insert mode at cursor
 I will take you to the beginning of the line with the cursor on insert mode
 i will create insert mode wherever you are located
 a move the cursor to the next character
-A moves all the wA 
+A moves cursor to the right side and inserts cursor 

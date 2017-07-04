@@ -1,4 +1,11 @@
 Command line
 cd is command directory
 ls lists the file in the directory
-mkdir creates a directory
+mkdir creates a directory 
+cp copies files from to a directory
+mv a file from and to another directory
+.. goes back one directory
+/ is the root directory
+~ is the home directory
+pwd shows present working directory
+rm -rf remove files or directories 
